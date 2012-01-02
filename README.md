@@ -1,7 +1,7 @@
 # CIRCL PE32 certificate dump utility 
 
 ## Description
-A tool to dump (and parse) an embedded certificate of a windows binary
+A tool to dump (and parse) an embedded certificate of a windows binary on platforms other than Windows.
 
 ## Requirements
 * pedump (http://pedump.me/ - gem install pedump)
