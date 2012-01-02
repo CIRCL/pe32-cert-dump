@@ -4,9 +4,9 @@
 A tool to dump (and parse) an embedded certificate of a windows binary
 
 ## Requirements
-   pedump (http://pedump.me/ - gem install pedump)
-   bc (http://www.gnu.org/software/bc/)
-   grep, tr, cut, dd, openssl
+* pedump (http://pedump.me/ - gem install pedump)
+* bc (http://www.gnu.org/software/bc/)
+* grep, tr, cut, dd, openssl
 
 ## Licenses
 All files except those listed below are licensed under the 
