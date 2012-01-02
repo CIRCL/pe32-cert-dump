@@ -7,6 +7,10 @@
 
 # Usage: Program expects a filename when run
 
+# This file is licensed under the GNU General Public License v3
+# (C) 2012, CIRCL, Smile GIE
+# (C) Sascha Rommelfangen
+
 INFILE="$1"
 if [ ! -e $INFILE ]
 then
