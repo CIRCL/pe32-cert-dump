@@ -8,6 +8,9 @@ A tool to dump (and parse) an embedded certificate of a windows binary on platfo
 * bc (http://www.gnu.org/software/bc/)
 * grep, tr, cut, dd, openssl
 
+## Links
+* Microsoft PE and COFF Specification (http://msdn.microsoft.com/library/windows/hardware/gg463125)
+
 ## License
 All files are licensed under the 
 GNU General Public License v3  
