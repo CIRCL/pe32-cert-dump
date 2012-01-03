@@ -4,7 +4,7 @@
 A tool to dump (and parse) an embedded certificate of a windows binary on platforms other than Windows.
 
 ## Requirements
-* pedump (http://pedump.me/ - gem install pedump)
+* pedump (http://pedump.me/)
 * bc (http://www.gnu.org/software/bc/)
 * grep, tr, cut, dd, openssl
 
@@ -12,6 +12,6 @@ A tool to dump (and parse) an embedded certificate of a windows binary on platfo
 All files are licensed under the 
 GNU General Public License v3  
 (C) 2012, CIRCL, Smile GIE  
-(C) Sascha Rommelfangen  
+(C) Sascha Rommelfangen, sascha.rommelfangen@circl.lu, @rommelfs  
 http://www.circl.lu  
 https://github.com/CIRCL/pe32-cert-dump  
